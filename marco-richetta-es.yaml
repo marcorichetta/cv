@@ -1,0 +1,86 @@
+cv:
+  name: Marco Richetta
+  location: Italy
+  email: marcorichetta@gmail.com
+  website: https://marcorichetta.vercel.app/
+  social_networks:
+    - network: LinkedIn
+      username: marco-richetta
+    - network: GitHub
+      username: marcorichetta
+  sections:
+    Sobre mí:
+      - Me gusta compartir conocimiento dando [charlas](https://www.youtube.com/live/EWofHnNngoc?si=1OpnvzkN-R0NSc2i), [presentaciones](https://www.linkedin.com/in/marco-richetta/overlay/experience/2020463733/multiple-media-viewer/?profileId=ACoAABQf7hUBZUJgMc0bcZABQZwPRzETisnwoTM&treasuryMediaId=1635515512870), también como [mentor](https://frontend.cafe/mentorias) o simplemente ayudando a otros a [resolver problemas](https://forum.djangoproject.com/u/marcorichetta/summary).
+      - Actualmente interesado en mejorar la **Developer Experience (DX)** a través de IaC, MLOps, documentación y testing. También me interesan Go y la Programación Funcional.
+    Experiencia:
+      - company: Mercado Libre
+        position: Software Engineer
+        location: Córdoba, Argentina
+        start_date: 2022-07
+        end_date: 2024-06
+        highlights:
+          - Trabajé mejorando la **DX en Python**, manteniendo herramientas usadas por miles de desarrolladores en la compañía (Soporte general, nuevas funcionalidades, corrección de bugs, deprecado de versiones).
+          - Con la experiencia en Python, impulsamos actualizaciones en más de 1000 aplicaciones y bibliotecas obsoletas de Java mediante [cambios de código a gran escala](https://sourcegraph.com/batch-changes),  supervisando un roadmap y coordinando con los equipos responsables para implementar y monitorear las actualizaciones.
+      - company: Flux IT
+        position: Software Developer
+        location: Córdoba, Argentina
+        start_date: 2021-01
+        end_date: 2022-06
+        highlights:
+          - Desarrollo fullstack para integrar sistemas de terceros con aplicaciones internas de la compañía.
+          - Posteriormente, en un rol más orientado a DevOps, ayudé en la migración de la infraestructura interna a Kubernetes aplicando GitOps.
+    Educación:
+      - institution: Instituto Superior 25 de Mayo
+        area: Analista de Sistemas de Computación
+        end_date: 2020-12
+    Skills:
+      - label: Languages
+        details: Python, React/JavaScript, Go
+      - label: Technologies
+        details: Django, Pytest, Kubernetes, FluxCD, Docker
+
+design:
+  theme: moderncv
+  font_size: "12pt"
+  page_size: a4paper
+  color: blue
+  date_width: 3.8 cm
+  content_scale: 0.85
+  show_only_years: false
+  disable_page_numbers: false
+
+locale_catalog:
+  phone_number_format: international
+  date_style: MONTH_ABBREVIATION YEAR
+  abbreviations_for_months:
+    - Ene
+    - Feb
+    - Mar
+    - Abr
+    - May
+    - Jun
+    - Jul
+    - Ago
+    - Sep
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+  month: mes
+  months: meses
+  year: año
+  years: años
+  present: presente
+  to: a
