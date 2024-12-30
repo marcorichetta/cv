@@ -17,14 +17,14 @@ Currently interested in enhancing **Developer Experience (DX)** through IaC, MLO
 
 ## Mercado Libre, Software Engineer
 
-- Jul 2022 to Jun 2024
+- July 2022 – June 2024
 - Córdoba, Argentina
 - Worked improving **Python DX**, maintaining tooling used by 1000s of developers in the company. (General support, features, bugfixes, version deprecation).
 - Building on our Python expertise, we led upgrades for over 1,000 outdated Java applications and libraries using [Large-Scale Code Changes](https://sourcegraph.com/batch-changes), managing the roadmap and collaborating with responsible teams to implement and monitor each update.
 
 ## Flux IT, Software Developer
 
-- Jan 2021 to Jun 2022
+- Jan 2021 – June 2022
 - Córdoba, Argentina
 - Fullstack development to integrate 3rd party systems with internal company applications.
 - Later, in a more DevOps role, I helped in the migration of the internal infrastructure to Kubernetes applying GitOps. This also led to better DX.
