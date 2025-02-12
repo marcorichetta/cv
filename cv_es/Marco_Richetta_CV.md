@@ -1,7 +1,7 @@
 # Marco Richetta's CV
 
 - Email: [marcorichetta@gmail.com](mailto:marcorichetta@gmail.com)
-- Location: Italy
+- Location: Copenhagen, Denmark
 - Website: [marcorichetta.vercel.app](https://marcorichetta.vercel.app/)
 - LinkedIn: [marco-richetta](https://linkedin.com/in/marco-richetta)
 - GitHub: [marcorichetta](https://github.com/marcorichetta)

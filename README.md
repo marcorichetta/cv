@@ -16,5 +16,6 @@ uv sync
 Modificar archivos `.yaml` en base a la spec. [Docs](https://docs.rendercv.com/user_guide/)
 
 ```bash
-uv run rendercv render marco-richetta-en.yaml -nopng -nohtml -o cv_en
+# Makefile
+make cv_en
 ```

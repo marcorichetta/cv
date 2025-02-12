@@ -6,5 +6,5 @@ readme = "README.md"
 requires-python = "~=3.11"
 dependencies = [
     "dagger-io>=0.15.1",
-    "rendercv>=1.14",
+    "rendercv[full]>=1.14",
 ]

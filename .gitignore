@@ -56,3 +56,4 @@ downloads/
 eggs/
 .eggs/
 *.tex
+*.pyc

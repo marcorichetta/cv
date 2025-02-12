@@ -1,0 +1,36 @@
+design:
+    theme: engineeringclassic
+    page:
+        size: a4
+        show_page_numbering: false
+        show_last_updated_date: false
+    text:
+        font_family: Lato
+        font_size: "12pt"
+        leading: "0.8em"
+        date_and_location_column_alignment: left
+        alignment: justified
+    header:
+        name_font_family: Lato
+        connections_font_family: Lato
+        separator_between_connections: "|"
+        alignment: left
+        vertical_space_between_name_and_connections: "0.4cm"
+        photo_width: "2.5cm"
+    section_titles:
+        font_family: Lato
+        type: with-full-line
+        font_size: "1.2em"
+    entries:
+        vertical_space_between_entries: "0.5cm"
+    highlights:
+        top_margin: "0.5cm"
+        vertical_space_between_highlights: "0.4cm"
+    links:
+        underline: true
+    colors:
+        links: blue
+        connections: "#408ae0"
+    entry_types:
+        education_entry:
+            main_column_first_row_template: \ **AREA**, INSTITUTION -- LOCATION
