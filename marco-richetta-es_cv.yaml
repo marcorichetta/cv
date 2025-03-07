@@ -1,5 +1,6 @@
 cv:
     name: Marco Richetta
+    photo: profile_picture.jpg
     location: Copenhagen, Denmark
     email: marcorichetta@gmail.com
     website: https://marcorichetta.vercel.app/
@@ -10,8 +11,9 @@ cv:
           username: marcorichetta
     sections:
         Sobre mí:
-            - Me gusta compartir conocimiento dando [charlas](https://www.youtube.com/live/EWofHnNngoc?si=1OpnvzkN-R0NSc2i), [presentaciones](https://www.linkedin.com/in/marco-richetta/overlay/experience/2020463733/multiple-media-viewer/?profileId=ACoAABQf7hUBZUJgMc0bcZABQZwPRzETisnwoTM&treasuryMediaId=1635515512870), también como [mentor](https://frontend.cafe/mentorias) o simplemente ayudando a otros a [resolver problemas](https://forum.djangoproject.com/u/marcorichetta/summary).
-            - Actualmente interesado en mejorar la **Developer Experience (DX)** a través de IaC, MLOps, documentación y testing. También me interesan Go y la Programación Funcional.
+            - Me gusta compartir conocimientos mediante [charlas](https://www.linkedin.com/in/marco-richetta/overlay/experience/2020463733/multiple-media-viewer/?profileId=ACoAABQf7hUBZUJgMc0bcZABQZwPRzETisnwoTM&treasuryMediaId=1635515512870), como [mentor](https://www.linkedin.com/in/marco-richetta/details/volunteering-experiences/) o simplemente ayudando a otros a resolver problemas. Por ejemplo, [en el foro de Django](https://forum.djangoproject.com/u/marcorichetta/summary).
+            - Actualmente me interesa trabajar en la **Developer Experience (DX)**, especialmente utilizando IaC. También estoy aprendiendo sobre Go, MLOps, Elixir.
+            - Mi formación es en backend, pero me gusta ver el panorama general y pensar más allá de mi función específica. Me impulsa la curiosidad pero estoy constante aprendizaje para balancearla y también priorizar el impacto.
         Experiencia:
             - company: Mercado Libre
               position: Software Engineer
@@ -32,12 +34,19 @@ cv:
         Educación:
             - institution: Instituto Superior 25 de Mayo
               area: Analista de Sistemas de Computación
+              start_date: 2015-02
               end_date: 2020-12
+              location: Córdoba, Argentina
+        Voluntariado:
+            - label: Hack Your Future
+              details: Me uní como mentor técnico para ayudar a las personas a iniciar sus carreras en programación. - [https://www.hackyourfuture.dk/](https://www.hackyourfuture.dk/)
         Skills:
-            - label: Languages
-              details: Python, React/JavaScript, Go
-            - label: Technologies
-              details: Django, Pytest, Kubernetes, FluxCD, Docker
+            - label: Lenguajes de programación
+              details: Python, JavaScript/Typescript, Go
+            - label: Tecnologías
+              details: Django, Pytest, React, Kubernetes, FluxCD, Docker, OpenTelemetry
+            - label: Idiomas
+              details: Español (nativo), Inglés (competencia profesional), Danés (aprendiendo)
 
 locale:
     language: es
@@ -74,4 +83,4 @@ locale:
     year: año
     years: años
     present: presente
-    to: a
+    to: "-"

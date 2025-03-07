@@ -11,9 +11,9 @@ cv:
           username: marcorichetta
     sections:
         about_me:
-            - I like to share knowledge by [giving](https://www.youtube.com/live/EWofHnNngoc?si=1OpnvzkN-R0NSc2i) [talks](https://www.linkedin.com/in/marco-richetta/overlay/experience/2020463733/multiple-media-viewer/?profileId=ACoAABQf7hUBZUJgMc0bcZABQZwPRzETisnwoTM&treasuryMediaId=1635515512870), also as a [mentor](https://frontend.cafe/mentorias) or simply helping others to solve problems. [E.g. the Django forum](https://forum.djangoproject.com/u/marcorichetta/summary).
-            - Currently interested in enhancing **Developer Experience (DX)** through IaC. Also learning about Go, MLOps, Elixir.
-            - My background is in backend but I like to look at the bigger picture and think beyond my specific role. Curiosity drives me but I'm always learning to balance it and prioritize impact.
+            - I like to share knowledge by giving [talks](https://www.linkedin.com/in/marco-richetta/overlay/experience/2020463733/multiple-media-viewer/?profileId=ACoAABQf7hUBZUJgMc0bcZABQZwPRzETisnwoTM&treasuryMediaId=1635515512870), being a [mentor](https://www.linkedin.com/in/marco-richetta/details/volunteering-experiences/) or simply helping others to solve problems. [E.g. the Django forum](https://forum.djangoproject.com/u/marcorichetta/summary).
+            - Currently interested in working on **Developer Experience (DX)**, specially through IaC. Also learning about Go, MLOps, Elixir.
+            - My background is in backend but I like to look at the bigger picture and think beyond my specific role. Curiosity drives me but I'm always learning to balance it and also prioritize impact.
         experience:
             - company: Mercado Libre
               position: Software Engineer
@@ -41,11 +41,13 @@ cv:
         volunteering:
             - label: Hack Your Future
               details: Joined as a Technical mentor to help people kickstart their programming carreers. - [https://www.hackyourfuture.dk/](https://www.hackyourfuture.dk/)
-        technologies:
-            - label: Languages
-              details: Python, React, JavaScript/Typescript, Go
+        skills:
+            - label: Programming Languages
+              details: Python, JavaScript/Typescript, Go
             - label: Technologies
-              details: Django, Pytest, Kubernetes, FluxCD, Docker, OpenTelemetry
+              details: Django, Pytest, React, Kubernetes, FluxCD, Docker, OpenTelemetry
+            - label: Languages
+              details: Spanish (native), English (professional proficiency), Danish (learning)
 
 locale:
     language: en
