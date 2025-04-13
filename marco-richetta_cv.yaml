@@ -11,9 +11,9 @@ cv:
           username: marcorichetta
     sections:
         about_me:
+            - I'm a software engineer with +5 years of experience, mostly focused on **backend** with Python. Also have experience in **DevOps** and frontend with **React**.
             - I like to share knowledge by giving [talks](https://www.linkedin.com/in/marco-richetta/overlay/experience/2020463733/multiple-media-viewer/?profileId=ACoAABQf7hUBZUJgMc0bcZABQZwPRzETisnwoTM&treasuryMediaId=1635515512870), being a [mentor](https://www.linkedin.com/in/marco-richetta/details/volunteering-experiences/) or simply helping others to solve problems. [E.g. the Django forum](https://forum.djangoproject.com/u/marcorichetta/summary).
             - Currently interested in working on **Developer Experience (DX)**, specially through IaC. Also learning about Go, MLOps, Elixir.
-            - My background is in backend but I like to look at the bigger picture and think beyond my specific role. Curiosity drives me but I'm always learning to balance it and also prioritize impact.
         experience:
             - company: Mercado Libre
               position: Software Engineer
