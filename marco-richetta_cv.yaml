@@ -15,6 +15,14 @@ cv:
             - I like to share knowledge by giving [talks](https://www.linkedin.com/in/marco-richetta/overlay/experience/2020463733/multiple-media-viewer/?profileId=ACoAABQf7hUBZUJgMc0bcZABQZwPRzETisnwoTM&treasuryMediaId=1635515512870), being a [mentor](https://www.linkedin.com/in/marco-richetta/details/volunteering-experiences/) or simply helping others to solve problems. [E.g. the Django forum](https://forum.djangoproject.com/u/marcorichetta/summary).
             - Currently interested in working on **Developer Experience (DX)**, specially through IaC. Also learning about Go, MLOps, Elixir.
         experience:
+            - company: Freelance
+              position: Fullstack Developer
+              location: Copenhagen, Denmark
+              start_date: 2024-12
+              end_date: present
+              highlights:
+                  - Software development of a live/on-demand content streaming platform. My tasks are varied since we work on a product made from scratch.
+                  - Stack - **NextJS**, Express, **Typescript**, Serverless Framework, **AWS** (Lambda, CloudFormation, RDS)
             - company: Mercado Libre
               position: Software Engineer
               location: Córdoba, Argentina
@@ -24,7 +32,7 @@ cv:
                   - Worked improving **Python DX**, maintaining tooling used by thousands of developers in the company. (General support, features, bugfixes, version deprecation).
                   - Building on our Python expertise, we led upgrades for over 1,000 outdated Java applications and libraries using [Large-Scale Code Changes](https://sourcegraph.com/batch-changes), managing the roadmap and collaborating with responsible teams to implement and monitor each update.
             - company: Flux IT
-              position: Software Developer
+              position: Fullstack Developer
               location: Córdoba, Argentina
               start_date: 2021-01
               end_date: 2022-06
