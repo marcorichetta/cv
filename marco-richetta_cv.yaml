@@ -11,7 +11,7 @@ cv:
           username: marcorichetta
     sections:
         about_me:
-            - I'm a software engineer with +5 years of experience, mostly focused on **backend** with Python. Also have experience in **DevOps** and frontend with **React**.
+            - I'm a software engineer with +5 years of experience, mostly focused on **backend**  and **API development** with **Python**, covering the entire process from system design, data modeling, implementation, testing, documentation, deployment, and observability. I also have experience with **DevOps** tasks and frontend with **React**.
             - I like to share knowledge by giving [talks](https://www.linkedin.com/in/marco-richetta/overlay/experience/2020463733/multiple-media-viewer/?profileId=ACoAABQf7hUBZUJgMc0bcZABQZwPRzETisnwoTM&treasuryMediaId=1635515512870), being a [mentor](https://www.linkedin.com/in/marco-richetta/details/volunteering-experiences/) or simply helping others to solve problems. [E.g. the Django forum](https://forum.djangoproject.com/u/marcorichetta/summary).
             - Currently interested in working on **Developer Experience (DX)**, specially through IaC. Also learning about Go, MLOps, Elixir.
         experience:
@@ -23,7 +23,7 @@ cv:
               highlights:
                   - Software development of a live/on-demand content streaming platform. My tasks are varied since we work on a product made from scratch.
                   - Stack - **NextJS**, Express, **Typescript**, Serverless Framework, **AWS** (Lambda, CloudFormation, RDS)
-            - company: Mercado Libre
+            - company: "[Mercado Libre](https://www.linkedin.com/company/mercadolibre/)"
               position: Software Engineer
               location: Córdoba, Argentina
               start_date: 2022-07
@@ -31,7 +31,7 @@ cv:
               highlights:
                   - Worked improving **Python DX**, maintaining tooling used by thousands of developers in the company. (General support, features, bugfixes, version deprecation).
                   - Building on our Python expertise, we led upgrades for over 1,000 outdated Java applications and libraries using [Large-Scale Code Changes](https://sourcegraph.com/batch-changes), managing the roadmap and collaborating with responsible teams to implement and monitor each update.
-            - company: Flux IT
+            - company: "[Flux IT](https://www.linkedin.com/company/1162182/)"
               position: Fullstack Developer
               location: Córdoba, Argentina
               start_date: 2021-01
@@ -39,6 +39,24 @@ cv:
               highlights:
                   - Fullstack development (**React/Django**) to integrate 3rd party systems with internal company applications.
                   - Later, in a more **DevOps** role, I helped in the migration of the internal infrastructure to Kubernetes applying **GitOps**. This also led to better DX.
+            - company: Freelance
+              position: Django Developer
+              location: Córdoba, Argentina
+              start_date: 2020-05
+              end_date: 2020-09
+              highlights:
+                  - I helped designing new features and bugfixing for a [clinic history management system](https://github.com/cluster311/ggg) made with **Django**.
+                  - I worked both in the frontend and the backend, defining and updating Django models, views, forms and templates of the system. Also made **tests** for every functionality added or modified.
+                  - As a necessity, I configured a **Django/Postgres** development environment with **Docker**. This greatly improved my familiarity with the technology allowing me, for example, to optimize images build time or to debug inside the container with VSCode.
+            - company: "[Prodeman S. A.](https://www.linkedin.com/company/prodeman/)"
+              position: IT Support
+              location: General Cabrera, Córdoba, Argentina
+              start_date: 2017-09
+              end_date: 2018-09
+              highlights:
+                  - My general goal was to provide **technical support** to all the employees on the company on everything referred to IT.
+                  - Responsible for managing video surveillance systems, including hardware (analog & IP cameras such as Vivotek and Hikvision) and software (Nuuo Video Management Software).
+                  - Office365 tasks (Users administration, Mailbox backups, **Powershell** scripting)
         education:
             - institution: Instituto Superior 25 de Mayo
               degree: BS
@@ -47,15 +65,15 @@ cv:
               end_date: 2020-12
               location: Córdoba, Argentina
         volunteering:
-            - label: Hack Your Future
-              details: Joined as a Technical mentor to help people kickstart their programming carreers. - [https://www.hackyourfuture.dk/](https://www.hackyourfuture.dk/)
+            - label: "[Hack Your Future](https://www.hackyourfuture.dk/)"
+              details: Joined as a Technical mentor to help people kickstart their programming careers.
         skills:
             - label: Programming Languages
               details: Python, JavaScript/Typescript, Go
             - label: Technologies
               details: Django, Pytest, React, Kubernetes, FluxCD, Docker, OpenTelemetry
             - label: Languages
-              details: Spanish (native), English (professional proficiency), Danish (learning)
+              details: Spanish (native), English (professional proficiency), Italian (A1), Danish (learning)
 
 locale:
     language: en

@@ -6,7 +6,7 @@ design:
         show_last_updated_date: false
     text:
         font_family: Lato
-        font_size: "12pt"
+        font_size: "13pt"
         leading: "0.8em"
         date_and_location_column_alignment: left
         alignment: justified
@@ -22,7 +22,8 @@ design:
         font_size: "1.3em"
     entries:
         vertical_space_between_entries: "0.5cm"
-        allow_page_break_in_sections: false
+        allow_page_break_in_sections: true
+        allow_page_break_in_entries: true
     highlights:
         top_margin: "0.5cm"
         vertical_space_between_highlights: "0.4cm"
