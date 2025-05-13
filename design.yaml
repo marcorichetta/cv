@@ -21,7 +21,7 @@ design:
         type: with-full-line
         font_size: "1.4em"
     entries:
-        vertical_space_between_entries: "0.5cm"
+        vertical_space_between_entries: "1.2em"
         allow_page_break_in_sections: true
         allow_page_break_in_entries: true
     highlights:

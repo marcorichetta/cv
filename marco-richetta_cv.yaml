@@ -3,7 +3,7 @@ cv:
     photo: profile_picture.jpg
     location: Copenhagen, Denmark
     email: marcorichetta@gmail.com
-    website: https://marcorichetta.vercel.app/
+    website: https://marcorichetta.dev/
     social_networks:
         - network: LinkedIn
           username: marco-richetta
@@ -13,7 +13,7 @@ cv:
         about_me:
             - I'm a software engineer with +5 years of experience, mostly focused on **backend**  and **API development** with **Python**, covering the entire process from system design, data modeling, implementation, testing, documentation, deployment, and observability. I also have experience with **DevOps** tasks and frontend with **React**.
             - I like to share knowledge by giving [talks](https://www.linkedin.com/in/marco-richetta/overlay/experience/2020463733/multiple-media-viewer/?profileId=ACoAABQf7hUBZUJgMc0bcZABQZwPRzETisnwoTM&treasuryMediaId=1635515512870), being a [mentor](https://www.linkedin.com/in/marco-richetta/details/volunteering-experiences/) or simply helping others to solve problems. [E.g. the Django forum](https://forum.djangoproject.com/u/marcorichetta/summary).
-            - Currently interested in working on **Developer Experience (DX)**, specially through IaC. Also learning about Go, MLOps, Elixir.
+            - Currently interested in working on **Developer Experience (DX)**, specially through IaC. Also learning about Go, MLOps, [Elixir](https://exercism.org/profiles/marcorichetta/solutions?track_slug=elixir).
         experience:
             - company: Freelance
               position: Fullstack Developer
@@ -50,7 +50,7 @@ cv:
                   - As a necessity, I configured a **Django/Postgres** development environment with **Docker**. This greatly improved my familiarity with the technology allowing me, for example, to optimize images build time or to debug inside the container with VSCode.
             - company: "[Prodeman S. A.](https://www.linkedin.com/company/prodeman/)"
               position: IT Support
-              location: General Cabrera, Córdoba, Argentina
+              location: Córdoba, Argentina
               start_date: 2017-09
               end_date: 2018-09
               highlights:
