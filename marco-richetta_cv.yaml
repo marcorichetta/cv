@@ -12,7 +12,7 @@ cv:
     sections:
         about_me:
             - I'm a software engineer with +5 years of experience, mostly focused on **Backend** development with Python.
-            - I have strong experience in **DevOps** and **cloud infrastructure**, especially with **Kubernetes** but also with **Serverless** framework for **AWS**.
+            - I have strong experience in **DevOps** and cloud infrastructure, especially with **Kubernetes** but also with **Serverless** framework for **AWS**.
             - In addition, I'm comfortable working with several technologies like **TypeScript**, **React**.
             - I like to share knowledge through [talks](https://www.linkedin.com/in/marco-richetta/overlay/experience/2020463733/multiple-media-viewer/?profileId=ACoAABQf7hUBZUJgMc0bcZABQZwPRzETisnwoTM&treasuryMediaId=1635515512870), [mentoring](https://www.linkedin.com/in/marco-richetta/details/volunteering-experiences/), or helping others in communities like the [Django forum](https://forum.djangoproject.com/u/marcorichetta/summary).
             - Currently interested on **Developer Experience (DX)** through IaC. Learning **Go**, [Elixir](https://exercism.org/profiles/marcorichetta/solutions?track_slug=elixir), and exploring **MLOps** practices.
@@ -31,7 +31,7 @@ cv:
               start_date: 2022-07
               end_date: 2024-06
               highlights:
-                  - Improved **Python Developer Experience** by maintaining internal tooling used by thousands of devs across the company. Supported thousands of developers through features, bug fixes, and clear documentation.
+                  - Improved Python Developer Experience by maintaining internal tooling used by thousands of devs across the company. Supported thousands of developers through features, bug fixes, and clear documentation.
                   - Building on our Python expertise, we led upgrades for +750 outdated Java apps and libraries, managing the roadmap and coordinating with multiple teams for safe rollouts.
                   - Led an initiative for making a [Tech Radar](https://www.thoughtworks.com/radar) for the company's 4 key technologies (Java, Node, Python, Go), discussing with experts to identify how the company works with them, and establishing a framework for evaluating and classifying new technologies.
             - company: "[Flux IT](https://www.linkedin.com/company/1162182/)"
