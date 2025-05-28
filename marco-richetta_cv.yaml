@@ -11,9 +11,11 @@ cv:
           username: marcorichetta
     sections:
         about_me:
-            - I'm a software engineer with +5 years of experience, mostly focused on **backend**  and **API development** with **Python**, covering the entire process from system design, data modeling, implementation, testing, documentation, deployment, and observability. I also have experience with **DevOps** tasks and frontend with **React**.
-            - I like to share knowledge by giving [talks](https://www.linkedin.com/in/marco-richetta/overlay/experience/2020463733/multiple-media-viewer/?profileId=ACoAABQf7hUBZUJgMc0bcZABQZwPRzETisnwoTM&treasuryMediaId=1635515512870), being a [mentor](https://www.linkedin.com/in/marco-richetta/details/volunteering-experiences/) or simply helping others to solve problems. [E.g. the Django forum](https://forum.djangoproject.com/u/marcorichetta/summary).
-            - Currently interested in working on **Developer Experience (DX)**, specially through IaC. Also learning about Go, MLOps, [Elixir](https://exercism.org/profiles/marcorichetta/solutions?track_slug=elixir).
+            - I'm a software engineer with +5 years of experience, mostly focused on **Backend** development with Python.
+            - I have strong experience in **DevOps** and **cloud infrastructure**, especially with **Kubernetes** but also with **Serverless** framework for **AWS**.
+            - In addition, I'm comfortable working with several technologies like **TypeScript**, **React**.
+            - I like to share knowledge through [talks](https://www.linkedin.com/in/marco-richetta/overlay/experience/2020463733/multiple-media-viewer/?profileId=ACoAABQf7hUBZUJgMc0bcZABQZwPRzETisnwoTM&treasuryMediaId=1635515512870), [mentoring](https://www.linkedin.com/in/marco-richetta/details/volunteering-experiences/), or helping others in communities like the [Django forum](https://forum.djangoproject.com/u/marcorichetta/summary).
+            - Currently interested on **Developer Experience (DX)** through IaC. Learning **Go**, [Elixir](https://exercism.org/profiles/marcorichetta/solutions?track_slug=elixir), and exploring **MLOps** practices.
         experience:
             - company: Freelance
               position: Fullstack Developer
@@ -21,24 +23,26 @@ cv:
               start_date: 2024-12
               end_date: present
               highlights:
-                  - Software development of a live/on-demand content streaming platform. My tasks are varied since we work on a product made from scratch.
-                  - Stack - **NextJS**, Express, **Typescript**, Serverless Framework, **AWS** (Lambda, CloudFormation, RDS)
+                  - Development of a live/on-demand streaming platform, using **NextJS** with **TypeScript** on the frontend, **Express** on the backend and AWS for deployment, video processing and storage.
+                  - Automated deployments and infrastructure provisioning with **CloudFormation**, orchestrated via the **Serverless Framework**, ensuring consistency and reliability across environments.
             - company: "[Mercado Libre](https://www.linkedin.com/company/mercadolibre/)"
               position: Software Engineer
               location: Córdoba, Argentina
               start_date: 2022-07
               end_date: 2024-06
               highlights:
-                  - Worked improving **Python DX**, maintaining tooling used by thousands of developers in the company. (General support, features, bugfixes, version deprecation).
-                  - Building on our Python expertise, we led upgrades for over 1,000 outdated Java applications and libraries using [Large-Scale Code Changes](https://sourcegraph.com/batch-changes), managing the roadmap and collaborating with responsible teams to implement and monitor each update.
+                  - Improved **Python Developer Experience** by maintaining internal tooling used by thousands of devs across the company. Supported thousands of developers through features, bug fixes, and clear documentation.
+                  - Building on our Python expertise, we led upgrades for +750 outdated Java apps and libraries, managing the roadmap and coordinating with multiple teams for safe rollouts.
+                  - Led an initiative for making a [Tech Radar](https://www.thoughtworks.com/radar) for the company's 4 key technologies (Java, Node, Python, Go), discussing with experts to identify how the company works with them, and establishing a framework for evaluating and classifying new technologies.
             - company: "[Flux IT](https://www.linkedin.com/company/1162182/)"
               position: Fullstack Developer
               location: Córdoba, Argentina
               start_date: 2021-01
               end_date: 2022-06
               highlights:
-                  - Fullstack development (**React/Django**) to integrate 3rd party systems with internal company applications.
-                  - Later, in a more **DevOps** role, I helped in the migration of the internal infrastructure to Kubernetes applying **GitOps**. This also led to better DX.
+                  - Fullstack development with **React** and **Django**, integrating 3rd party systems into internal apps.
+                  - Later on, in a more **DevOps** role, contributed to internal infrastructure migration to **Kubernetes** applying **GitOps** via **FluxCD**.
+                  - Improved monitoring and observability using technologies such as **OpenTelemetry**, **Jaeger**, **Grafana**, and **Prometheus**.
             - company: Freelance
               position: Django Developer
               location: Córdoba, Argentina
@@ -47,7 +51,7 @@ cv:
               highlights:
                   - I helped designing new features and bugfixing for a [clinic history management system](https://github.com/cluster311/ggg) made with **Django**.
                   - I worked both in the frontend and the backend, defining and updating Django models, views, forms and templates of the system. Also made **tests** for every functionality added or modified.
-                  - As a necessity, I configured a **Django/Postgres** development environment with **Docker**. This greatly improved my familiarity with the technology allowing me, for example, to optimize images build time or to debug inside the container with VSCode.
+                  - Improved **Django/Postgres** dev environment using Docker, optimizing images build time and setting up debugging inside the container using VSCode.
             - company: "[Prodeman S. A.](https://www.linkedin.com/company/prodeman/)"
               position: IT Support
               location: Córdoba, Argentina
@@ -73,7 +77,7 @@ cv:
             - label: Technologies
               details: Django, Pytest, React, Kubernetes, FluxCD, Docker, OpenTelemetry
             - label: Languages
-              details: Spanish (native), English (professional proficiency), Italian (A1), Danish (learning)
+              details: Spanish (native), English (professional proficiency), Italian (A1), Danish (A1)
 
 locale:
     language: en
