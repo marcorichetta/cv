@@ -6,7 +6,7 @@ design:
         show_last_updated_date: false
     text:
         font_family: Noto Sans
-        font_size: "13pt"
+        font_size: "12pt"
         leading: "0.8em"
         date_and_location_column_alignment: left
         alignment: justified

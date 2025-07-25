@@ -21,7 +21,7 @@ cv:
               position: Fullstack Developer
               location: Copenhagen, Denmark
               start_date: 2024-12
-              end_date: present
+              end_date: 2025-06
               highlights:
                   - Development of a live/on-demand streaming platform, using **NextJS** with **TypeScript** on the frontend, **Express** on the backend and AWS for deployment, video processing and storage.
                   - Automated deployments and infrastructure provisioning with **CloudFormation**, orchestrated via the **Serverless Framework**, ensuring consistency and reliability across environments.
