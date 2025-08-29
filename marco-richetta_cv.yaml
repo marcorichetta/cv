@@ -23,8 +23,10 @@ cv:
               start_date: 2024-12
               end_date: 2025-06
               highlights:
-                  - Development of a live/on-demand streaming platform, using **NextJS** with **TypeScript** on the frontend, **Express** on the backend and AWS for deployment, video processing and storage.
-                  - Automated deployments and infrastructure provisioning with **CloudFormation**, orchestrated via the **Serverless Framework**, ensuring consistency and reliability across environments.
+                  - Worked on an MVP for a live/on-demand theater streaming platform, enabling theaters to reach broader audiences by recording and broadcasting shows online.
+                  - Wore many hats in a small team of 3 devs, implementing features from frontend (**NextJS** with **TypeScript**) and backend (**Express**) to AWS infrastructure, with significant autonomy in technical decision-making.
+                  - Automated CI/CD provisioning with **CloudFormation**, orchestrated via **Serverless Framework**, ensuring consistency and reliability across environments.
+                  - Worked directly with the investor to translate business requirements into technical solutions and explain technical decisions in simple terms.
             - company: "[Mercado Libre](https://www.linkedin.com/company/mercadolibre/)"
               position: Software Engineer
               location: Córdoba, Argentina
@@ -71,7 +73,9 @@ cv:
         volunteering:
             - label: "[Hack Your Future](https://www.hackyourfuture.dk/)"
               details: Joined as a Technical mentor to help people kickstart their programming careers.
-        skills:
+        others:
+            - label: Citizenship
+              details: Argentine, Italian
             - label: Programming Languages
               details: Python, JavaScript/Typescript, Go
             - label: Technologies
