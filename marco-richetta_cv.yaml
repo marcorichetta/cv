@@ -37,14 +37,25 @@ cv:
                   - Building on our Python expertise, we led upgrades for +750 outdated Java apps and libraries, managing the roadmap and coordinating with multiple teams for safe rollouts.
                   - Led an initiative for making a [Tech Radar](https://www.thoughtworks.com/radar) for the company's 4 key technologies (Java, Node, Python, Go), discussing with experts to identify how the company works with them, and establishing a framework for evaluating and classifying new technologies.
             - company: "[Flux IT](https://www.linkedin.com/company/1162182/)"
+              position: SSR Fullstack Developer
+              location: Córdoba, Argentina
+              start_date: 2021-12
+              end_date: 2022-06
+              highlights:
+                  - In a more **DevOps-oriented** role, participated in the migration of internal infrastructure to **Kubernetes**, applying **GitOps** with **FluxCD**.
+                  - Improved **monitoring and observability** using **OpenTelemetry**, **Jaeger**, **Grafana**, and **Prometheus**.
+                  - Increased involvement in system design, while continuing backend development with **Django** and **FastAPI**.
+                  - Greater autonomy and effective communication with peers and technical leads.
+            - company: "[Flux IT](https://www.linkedin.com/company/1162182/)"
               position: Fullstack Developer
               location: Córdoba, Argentina
               start_date: 2021-01
-              end_date: 2022-06
+              end_date: 2021-11
               highlights:
-                  - Fullstack development with **React** and **Django**, integrating 3rd party systems into internal apps.
-                  - Later on, in a more **DevOps** role, contributed to internal infrastructure migration to **Kubernetes** applying **GitOps** via **FluxCD**.
-                  - Improved monitoring and observability using technologies such as **OpenTelemetry**, **Jaeger**, **Grafana**, and **Prometheus**.
+                  - Fullstack app development with **React** and **Django**, integrating APIs from external platforms into internal applications.
+                  - Actively collaborated in requirements analysis, proposing alternative scenarios and improvements.
+                  - Onboarded new team members, facilitating their integration into the team.
+                  - Recognized for collaborative attitude and taking on tasks outside my scope (QA, DevOps, IT Support).
             - company: Freelance
               position: Django Developer
               location: Córdoba, Argentina

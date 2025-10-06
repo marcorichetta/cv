@@ -34,17 +34,28 @@ cv:
               end_date: 2024-06
               highlights:
                   - Mejoré la experiencia de desarrollador Python manteniendo herramientas internas usadas por miles de desarrolladores en toda la empresa. Apoyé a miles de desarrolladores a través de funcionalidades, corrección de bugs y documentación clara.
-                  - Basándonos en nuestra experiencia en Python, lideramos actualizaciones para +750 aplicaciones y librerías Java desactualizadas, gestionando la hoja de ruta y coordinando con múltiples equipos para despliegues seguros.
+                  - Basándonos en nuestra experiencia en Python, lideramos actualizaciones para +750 aplicaciones y librerías Java desactualizadas, gestionando el roadmap y coordinando con múltiples equipos para despliegues seguros.
                   - Lideré una iniciativa para crear un [Tech Radar](https://www.thoughtworks.com/radar) para las 4 tecnologías clave de la empresa (Java, Node, Python, Go), discutiendo con expertos para identificar cómo la empresa trabaja con ellas, y estableciendo un framework para evaluar y clasificar nuevas tecnologías.
+            - company: "[Flux IT](https://www.linkedin.com/company/1162182/)"
+              position: SSR Fullstack Developer
+              location: Córdoba, Argentina
+              start_date: 2021-12
+              end_date: 2022-06
+              highlights:
+                  - En un rol más orientado a **DevOps**, participé en la migración de infraestructura interna a **Kubernetes**, aplicando **GitOps** con **FluxCD**.
+                  - Mejoramos el **monitoreo y la observabilidad** usando **OpenTelemetry**, **Jaeger**, **Grafana** y **Prometheus**.
+                  - Mayor participación en diseños de los sistemas, aunque seguía desarrollando orientado al backend con **Django** y **FastAPI**.
+                  - Mayor autonomía y comunicación efectiva con pares y líderes técnicos.
             - company: "[Flux IT](https://www.linkedin.com/company/1162182/)"
               position: Fullstack Developer
               location: Córdoba, Argentina
               start_date: 2021-01
-              end_date: 2022-06
+              end_date: 2021-11
               highlights:
-                  - Desarrollo fullstack con **React** y **Django**, integrando sistemas de terceros en aplicaciones internas.
-                  - Posteriormente, en un rol más **DevOps**, contribuí a la migración de infraestructura interna a **Kubernetes** aplicando **GitOps** via **FluxCD**.
-                  - Mejoré el monitoreo y observabilidad usando tecnologías como **OpenTelemetry**, **Jaeger**, **Grafana**, y **Prometheus**.
+                  - Desarrollo de apps fullstack con **React** y **Django**, integrando APIs de plataformas externas en aplicaciones internas.
+                  - Colaboración activa en análisis de requerimientos, proponiendo escenarios alternativos y mejoras.
+                  - Onboarding de nuevos integrantes, facilitando su integración en el equipo.
+                  - Reconocimiento por actitud colaborativa, toma de tareas fuera de mi scope (QA, DevOps, IT Support).
             - company: Freelance
               position: Django Developer
               location: Córdoba, Argentina
