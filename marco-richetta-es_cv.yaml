@@ -11,42 +11,78 @@ cv:
           username: marcorichetta
     sections:
         Sobre mí:
-            - Me gusta compartir conocimientos mediante [charlas](https://www.linkedin.com/in/marco-richetta/overlay/experience/2020463733/multiple-media-viewer/?profileId=ACoAABQf7hUBZUJgMc0bcZABQZwPRzETisnwoTM&treasuryMediaId=1635515512870), como [mentor](https://www.linkedin.com/in/marco-richetta/details/volunteering-experiences/) o simplemente ayudando a otros a resolver problemas. Por ejemplo, [en el foro de Django](https://forum.djangoproject.com/u/marcorichetta/summary).
-            - Actualmente me interesa trabajar en la **Developer Experience (DX)**, especialmente utilizando IaC. También estoy aprendiendo sobre Go, MLOps, Elixir.
-            - Mi formación es en backend, pero me gusta ver el panorama general y pensar más allá de mi función específica. Me impulsa la curiosidad pero estoy constante aprendizaje para balancearla y también priorizar el impacto.
-        Experiencia:
-            - company: Mercado Libre
+            - Soy un ingeniero de software con +5 años de experiencia, principalmente enfocado en desarrollo **Backend** con Python.
+            - Tengo amplia experiencia en **DevOps** e infraestructura en la nube, especialmente con **Kubernetes** pero también con el framework **Serverless** para **AWS**.
+            - Además, me siento cómodo trabajando con varias tecnologías como **TypeScript**, **React**.
+            - Me gusta compartir conocimiento a través de [charlas](https://www.linkedin.com/posts/marco-richetta_a-week-since-europython-ended-the-post-conference-activity-7355495732214218752-tbJR?utm_source=share&utm_medium=member_desktop&rcm=ACoAABQf7hUBZUJgMc0bcZABQZwPRzETisnwoTM), [mentoría](https://www.linkedin.com/in/marco-richetta/details/volunteering-experiences/), o ayudando a otros en comunidades. Ej, [foro de Django](https://forum.djangoproject.com/u/marcorichetta/summary).
+            - Actualmente interesado en **Developer Experience (DX)** a través de IaC. Aprendiendo **Go**, [Elixir](https://exercism.org/profiles/marcorichetta/solutions?track_slug=elixir), y explorando prácticas de **MLOps**.
+        experience:
+            - company: Freelance
+              position: Fullstack Developer
+              location: Copenhague, Dinamarca
+              start_date: 2024-12
+              end_date: 2025-06
+              highlights:
+                  - Trabajé en un MVP para una plataforma de streaming de teatro en vivo/bajo demanda, permitiendo a los teatros llegar a audiencias más amplias grabando y transmitiendo obras online.
+                  - Desempeñé múltiples roles en un equipo pequeño de 3 desarrolladores, implementando funcionalidades desde frontend (**NextJS** con **TypeScript**) y backend (**Express**) hasta infraestructura AWS, con autonomía significativa en la toma de decisiones técnicas.
+                  - Automaticé el aprovisionamiento de CI/CD con **CloudFormation**, orquestado via **Serverless Framework**, asegurando consistencia y confiabilidad entre entornos.
+                  - Trabajé directamente con el inversor para traducir requerimientos de negocio en soluciones técnicas y explicar decisiones técnicas en términos simples.
+            - company: "[Mercado Libre](https://www.linkedin.com/company/mercadolibre/)"
               position: Software Engineer
               location: Córdoba, Argentina
               start_date: 2022-07
               end_date: 2024-06
               highlights:
-                  - Trabajé mejorando la **DX en Python**, manteniendo herramientas usadas por miles de desarrolladores en la compañía (Soporte general, nuevas funcionalidades, corrección de bugs, deprecado de versiones).
-                  - Con la experiencia en Python, impulsamos actualizaciones en más de 1000 aplicaciones y bibliotecas obsoletas de Java mediante [cambios de código a gran escala](https://sourcegraph.com/batch-changes),  supervisando un roadmap y coordinando con los equipos responsables para implementar y monitorear las actualizaciones.
-            - company: Flux IT
-              position: Software Developer
+                  - Mejoré la experiencia de desarrollador Python manteniendo herramientas internas usadas por miles de desarrolladores en toda la empresa. Apoyé a miles de desarrolladores a través de funcionalidades, corrección de bugs y documentación clara.
+                  - Basándonos en nuestra experiencia en Python, lideramos actualizaciones para +750 aplicaciones y librerías Java desactualizadas, gestionando la hoja de ruta y coordinando con múltiples equipos para despliegues seguros.
+                  - Lideré una iniciativa para crear un [Tech Radar](https://www.thoughtworks.com/radar) para las 4 tecnologías clave de la empresa (Java, Node, Python, Go), discutiendo con expertos para identificar cómo la empresa trabaja con ellas, y estableciendo un framework para evaluar y clasificar nuevas tecnologías.
+            - company: "[Flux IT](https://www.linkedin.com/company/1162182/)"
+              position: Fullstack Developer
               location: Córdoba, Argentina
               start_date: 2021-01
               end_date: 2022-06
               highlights:
-                  - Desarrollo fullstack para integrar sistemas de terceros con aplicaciones internas de la compañía.
-                  - Posteriormente, en un rol más orientado a DevOps, ayudé en la migración de la infraestructura interna a Kubernetes aplicando GitOps.
-        Educación:
+                  - Desarrollo fullstack con **React** y **Django**, integrando sistemas de terceros en aplicaciones internas.
+                  - Posteriormente, en un rol más **DevOps**, contribuí a la migración de infraestructura interna a **Kubernetes** aplicando **GitOps** via **FluxCD**.
+                  - Mejoré el monitoreo y observabilidad usando tecnologías como **OpenTelemetry**, **Jaeger**, **Grafana**, y **Prometheus**.
+            - company: Freelance
+              position: Django Developer
+              location: Córdoba, Argentina
+              start_date: 2020-05
+              end_date: 2020-09
+              highlights:
+                  - Ayudé a diseñar nuevas funcionalidades y corrección de bugs para un [sistema de gestión de historias clínicas](https://github.com/cluster311/ggg) hecho con **Django**.
+                  - Trabajé tanto en frontend como backend, definiendo y actualizando modelos, vistas, formularios y plantillas Django del sistema. También creé **tests** para cada funcionalidad agregada o modificada.
+                  - Mejoré el entorno de desarrollo **Django/Postgres** usando Docker, optimizando el tiempo de construcción de imágenes y configurando debugging dentro del contenedor usando VSCode.
+            - company: "[Prodeman S. A.](https://www.linkedin.com/company/prodeman/)"
+              position: IT Support
+              location: Córdoba, Argentina
+              start_date: 2017-09
+              end_date: 2018-09
+              highlights:
+                  - Mi objetivo general era brindar **soporte técnico** a todos los empleados de la empresa en todo lo relacionado con IT.
+                  - Responsable de gestionar sistemas de videovigilancia, incluyendo hardware (cámaras analógicas e IP como Vivotek y Hikvision) y software (Nuuo Video Management Software).
+                  - Tareas de Office365 (Administración de usuarios, backups de buzones, scripting en **Powershell**)
+        educación:
             - institution: Instituto Superior 25 de Mayo
               area: Analista de Sistemas de Computación
               start_date: 2015-02
               end_date: 2020-12
               location: Córdoba, Argentina
-        Voluntariado:
-            - label: Hack Your Future
-              details: Me uní como mentor técnico para ayudar a las personas a iniciar sus carreras en programación. - [https://www.hackyourfuture.dk/](https://www.hackyourfuture.dk/)
-        Skills:
-            - label: Lenguajes de programación
+        voluntariado:
+            - label: "[Hack Your Future](https://www.hackyourfuture.dk/)"
+              details: Me uní en Febrero 2025 como mentor técnico para ayudar a personas a iniciar sus carreras en programación.
+            - label: "[Djangonaut Space](https://djangonaut.space/comms/2025/09/24/session-5-team-intro/)"
+              details: Me uní como Navigator para la Sesión 5 del programa Djangonaut Space. Los Navigators guíamos a los Djangonauts, los mentees del programa, ayudándoles a contribuir a Django compartiendo recursos o ayudándoles a resolver problemas técnicos.
+        otros:
+            - label: Ciudadanía
+              details: Argentina, Italiana
+            - label: Lenguajes de Programación
               details: Python, JavaScript/Typescript, Go
             - label: Tecnologías
               details: Django, Pytest, React, Kubernetes, FluxCD, Docker, OpenTelemetry
             - label: Idiomas
-              details: Español (nativo), Inglés (competencia profesional), Danés (aprendiendo)
+              details: Español (nativo), Inglés (B2), Italiano (A1), Danés (A1)
 
 locale:
     language: es

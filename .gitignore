@@ -57,3 +57,8 @@ eggs/
 .eggs/
 *.tex
 *.pyc
+
+# Custom
+cv_en/
+cv_es/
+cv_general/

@@ -14,13 +14,13 @@ cv:
             - I'm a software engineer with +5 years of experience, mostly focused on **Backend** development with Python.
             - I have strong experience in **DevOps** and cloud infrastructure, especially with **Kubernetes** but also with **Serverless** framework for **AWS**.
             - In addition, I'm comfortable working with several technologies like **TypeScript**, **React**.
-            - I like to share knowledge through [talks](https://www.linkedin.com/in/marco-richetta/overlay/experience/2020463733/multiple-media-viewer/?profileId=ACoAABQf7hUBZUJgMc0bcZABQZwPRzETisnwoTM&treasuryMediaId=1635515512870), [mentoring](https://www.linkedin.com/in/marco-richetta/details/volunteering-experiences/), or helping others in communities like the [Django forum](https://forum.djangoproject.com/u/marcorichetta/summary).
+            - I like to share knowledge through [talks](https://www.linkedin.com/posts/marco-richetta_a-week-since-europython-ended-the-post-conference-activity-7355495732214218752-tbJR), [mentoring](https://www.linkedin.com/in/marco-richetta/details/volunteering-experiences/), or helping others in communities like the [Django forum](https://forum.djangoproject.com/u/marcorichetta/summary).
             - Currently interested on **Developer Experience (DX)** through IaC. Learning **Go**, [Elixir](https://exercism.org/profiles/marcorichetta/solutions?track_slug=elixir), and exploring **MLOps** practices.
         experience:
             - company: Freelance
               position: Fullstack Developer
               location: Copenhagen, Denmark
-              start_date: 2024-12
+              start_date: 2024-11
               end_date: 2025-06
               highlights:
                   - Worked on an MVP for a live/on-demand theater streaming platform, enabling theaters to reach broader audiences by recording and broadcasting shows online.
@@ -72,7 +72,9 @@ cv:
               location: Córdoba, Argentina
         volunteering:
             - label: "[Hack Your Future](https://www.hackyourfuture.dk/)"
-              details: Joined as a Technical mentor to help people kickstart their programming careers.
+              details: Joined in February 2025 as a Technical mentor to help people kickstart their programming careers.
+            - label: "[Djangonaut Space](https://djangonaut.space/comms/2025/09/24/session-5-team-intro/)"
+              details: Joined as a Navigator for Session 5 to the Djangonaut Space program. Navigators guide Djangonauts, the mentees of the program, by guiding them into contributing to Django by sharing resources or helping them troubleshoot technical issues.
         others:
             - label: Citizenship
               details: Argentine, Italian
@@ -81,7 +83,7 @@ cv:
             - label: Technologies
               details: Django, Pytest, React, Kubernetes, FluxCD, Docker, OpenTelemetry
             - label: Languages
-              details: Spanish (native), English (professional proficiency), Italian (A1), Danish (A1)
+              details: Spanish (native), English (B2), Italian (A1), Danish (A1)
 
 locale:
     language: en
